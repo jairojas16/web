@@ -108,7 +108,7 @@
 <body>
 	<div id="menu">
 		<ul>
-			<li><a href="#" class="active">Iniciar Sesión</a></li>
+			<li><a href="#" class="active">Iniciar Sesión ALE</a></li>
 		</ul>
 	</div>
 	<div id="formularios">
