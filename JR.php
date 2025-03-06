@@ -1,7 +1,7 @@
 <html lang="en">
 <?php
 
-	echo "Ocurrió algo con la base de datos: " 
+	echo "Ocurrió algo con la base de datos:  " 
 
 ?>
 </html>
