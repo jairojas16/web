@@ -1,3 +1,4 @@
+<html lang="en">
 <?php
 /*
 	CRUD con MySQL y PHP
@@ -13,3 +14,4 @@ try{
 	echo "Ocurrió algo con la base de datos: " . $e->getMessage();
 }
 ?>
+</html>
